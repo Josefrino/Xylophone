@@ -1,5 +1,7 @@
 # fourth_project
+
 This was my fourth flutter project at the Appbrewery Mobile Development course in Flutter
+An application that is an instrument to play sounds
 
 ## UI
 
