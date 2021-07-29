@@ -1,6 +1,5 @@
 # fourth_project
-
-A new Flutter project.
+This was my fourth flutter project at the Appbrewery Mobile Development course in Flutter
 
 ## Getting Started
 
